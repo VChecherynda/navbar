@@ -2,7 +2,7 @@
   "extends": "ts-config-single-spa",
   "compilerOptions": {
     "jsx": "react-jsx",
-    "declarationDir": "dist"
+    "declarationDir": "dist",
   },
   "files": ["src/home-mfe-react-demo-navbar.tsx"],
   "include": ["src/**/*"],
